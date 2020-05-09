@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlower.Core", "CashFlower.Core\CashFlower.Core.csproj", "{C0C3B21D-D6E9-4F3A-BD28-5CD5AE64A86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlower.Cli", "CashFlower.Cli\CashFlower.Cli.csproj", "{D7F7E1B4-C8C6-4FF0-AD33-5427AF29FB17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlower.Tests", "CashFlower.Tests\CashFlower.Tests.csproj", "{C950A96B-17A1-4A96-B800-ABD7999E1C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C3B21D-D6E9-4F3A-BD28-5CD5AE64A86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C3B21D-D6E9-4F3A-BD28-5CD5AE64A86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C3B21D-D6E9-4F3A-BD28-5CD5AE64A86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C3B21D-D6E9-4F3A-BD28-5CD5AE64A86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F7E1B4-C8C6-4FF0-AD33-5427AF29FB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F7E1B4-C8C6-4FF0-AD33-5427AF29FB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F7E1B4-C8C6-4FF0-AD33-5427AF29FB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F7E1B4-C8C6-4FF0-AD33-5427AF29FB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C950A96B-17A1-4A96-B800-ABD7999E1C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C950A96B-17A1-4A96-B800-ABD7999E1C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C950A96B-17A1-4A96-B800-ABD7999E1C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C950A96B-17A1-4A96-B800-ABD7999E1C63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
